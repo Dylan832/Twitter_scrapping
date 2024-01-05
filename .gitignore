@@ -1,6 +1,3 @@
-/json
-code_brut.py
-test.py
-/screenshots
-x.py
-script.sh
+**/__pycache__/
+**.log
+Ressources/Json/twitter_accounts.json

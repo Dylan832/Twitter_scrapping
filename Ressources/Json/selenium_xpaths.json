@@ -1,0 +1,40 @@
+{
+    "cookie": {
+        "cookie_path": "/html/body/div/div/div/div[1]/div/div/div/div/div/div[2]/div[1]"
+    },
+    "connect": {
+        "connect_path": "/html/body/div/div/div/div[2]/main/div/div/div[1]/div[1]/div/div[3]/div[5]/a",
+        "input_mail_fill": "/html/body/div/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div/div/div[5]/label/div/div[2]/div/input",
+        "input_next_for_email_path": "/html/body/div/div/div/div[1]/div/div/div/div/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div/div/div[6]",
+        "label_pseudo": "/html/body/div/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div[1]/div/div[2]/label/div/div[1]/div/span",
+        "input_next_for_pseudo_path": "/html/body/div/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div[2]/div/div/div/div",
+        "input_pseudo_fill": "/html/body/div/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div[1]/div/div[2]/label/div/div[2]/div/input",
+        "input_next_for_password_path": "/html/body/div/div/div/div[1]/div/div/div/div/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div[2]/div/div[1]/div/div/div",
+        "input_password_fill": "/html/body/div[1]/div/div/div[1]/div/div/div/div/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div[1]/div/div/div[3]/div/label/div/div[2]/div[1]/input"
+    },
+    "tweet": {
+        "articles_path": "article[data-testid='tweet'",
+        "content_path": "div[class=\"css-1rynq56 r-8akbws r-krxsd3 r-dnmrzs r-1udh08x r-bcqeeo r-qvutc0 r-37j5jr r-a023e6 r-rjixqe r-16dba41 r-bnwqim\"]",
+        "retweet_path": "div[class=\"css-175oi2r r-1habvwh r-1wbh5a2 r-1777fci\"]",
+        "pseudo_path": "span[class=\"css-1qaijid r-dnmrzs r-1udh08x r-3s2u2q r-bcqeeo r-qvutc0 r-poiln3\"] span[class=\"css-1qaijid r-bcqeeo r-qvutc0 r-poiln3\"]",
+        "username_path": "div[class=\"css-1rynq56 r-dnmrzs r-1udh08x r-3s2u2q r-bcqeeo r-qvutc0 r-37j5jr r-a023e6 r-rjixqe r-16dba41 r-18u37iz r-1wvb978\"] span[class=\"css-1qaijid r-bcqeeo r-qvutc0 r-poiln3\"]",
+        "tweetURL_path": "a[class=\"css-1rynq56 r-bcqeeo r-qvutc0 r-37j5jr r-a023e6 r-rjixqe r-16dba41 r-xoduu5 r-1q142lx r-1w6e6rj r-9aw3ui r-3s2u2q r-1loqt21\"]",
+        "tweet_ad_path": "div[class=\"css-1rynq56 r-bcqeeo r-qvutc0 r-37j5jr r-a023e6 r-rjixqe r-16dba41\"]"
+    },
+    "navigation": {
+        "search_bar_right": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[2]/div/div[2]/div/div/div/div[1]/div/div/div/form/div[1]/div/div/div/label/div[2]/div/input",
+        "search_bar_center": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[1]/div[1]/div[1]/div/div/div/div/div[2]/div[2]/div/div/div/form/div[1]/div/div/div/label/div[2]/div/input",
+        "profil_path": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/section/div/div/div[3]/div/div/div/div/div[2]/div[1]/div[1]/div/div[1]/a",
+        "home": "/html/body/div[1]/div/div/div[2]/header/div/div/div/div[1]/div[2]/nav/a[1]",
+        "follow_btn_1": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div/div/div[3]/div/div/div/div/div[1]/div[2]/div/div[1]/div",
+        "follow_btn_2": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div/div/div[3]/div/div/div/div/div[1]/div[2]/div[3]/div[1]/div",
+        "follow_btn_3": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div/div/div[3]/div/div/div/div/div[1]/div[2]/div[5]/div[1]/div"
+    },
+    "errors": {
+        "account_restricted_path": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/div/div/div[2]/div/div[1]/span",
+        "input_account_restricted_path": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[3]/div/div/div[2]/div/div[3]",
+        "error_search_input_path": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div/div/div/a",
+        "retry_button": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div/div/div[3]/div/div/div[2]/div[2]",
+        "unlock_limit": "/html/body/div[1]/div/div/div[2]/main/div/div/div/div/div/div[5]/div/section/div/div/div[1]/div/div/div/div/h1"
+    }
+}
